@@ -1,2 +1,3 @@
 # acar-v14-all-bots
-acar-v14-all-bot's
+
+Selahattinle bir derdim veya bir sıkıntım yok aq gidin kullanın işte
